@@ -21,7 +21,7 @@
 # Comment this if you don't want to include your Node-RED flows.
 # This is only valid if you install Node-RED as Home Assistant Add-on
 !ESP12F-Mesure_UV_V2/
-!ESP32-Machine_A_Glaçons/
+!ESP32-Machine_A_Glacons/
 
 
 # Uncomment this if you don' want to include secrets.yaml 
