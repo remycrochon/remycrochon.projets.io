@@ -7,8 +7,11 @@
 !.gitignore
 !*.md
 !*.sh
-!**.sch
-!ESP32-Altherma.zip
+!*.sch
+!*.brd
+!*.png
+!*.cnc
+
 
 # Comment these 2 lines if you don't want to include your SSH keys
 #!.ssh/
