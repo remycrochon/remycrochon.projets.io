@@ -15,7 +15,7 @@
 
 # Comment this if you don't want to include your Node-RED flows.
 # This is only valid if you install Node-RED as Home Assistant Add-on
-!/home/remy/SynologyDrive/25-Eagle/projects/ESP12F-Mesure UV_V2/
+!home/remy/SynologyDrive/25-Eagle/projects/ESP12F-Mesure UV_V2/
 
 # Uncomment this if you don' want to include secrets.yaml 
 #secrets.yaml
