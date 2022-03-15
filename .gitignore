@@ -24,6 +24,7 @@
 !ESP32-Machine_A_Glacons/
 !ESP8266-01_Congelateur/
 !ESP8266-01_Luxmetre/
+!ESP8266-01_PAC_Ssol/
 
 
 # Uncomment this if you don' want to include secrets.yaml 
