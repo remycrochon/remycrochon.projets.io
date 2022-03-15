@@ -3,7 +3,7 @@
 # An * ensures that everything will be ignored.
 *
 # Vous pouvez ajouter des fichiers/dossiers à la liste blanche avec !, ceux-ci ne seront pas ignorés
-!*.yaml
+!*.html
 !.gitignore
 !*.md
 !*.sh
