@@ -2,7 +2,7 @@
 # Example .gitignore file for your config dir.
 # An * ensures that everything will be ignored.
 *
-# You can whitelist files/folders with !, these will not be ignored.
+# Vous pouvez ajouter des fichiers/dossiers à la liste blanche avec !, ceux-ci ne seront pas ignorés
 !*.yaml
 !.gitignore
 !*.md
